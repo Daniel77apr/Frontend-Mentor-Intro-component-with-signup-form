@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/intro-component-with-signup-form-0Cvw4dbeG_](https://www.frontendmentor.io/solutions/intro-component-with-signup-form-0Cvw4dbeG_)
+- Live Site URL: [https://daniel77apr.github.io/Frontend-Mentor-Intro-component-with-signup-form/](https://daniel77apr.github.io/Frontend-Mentor-Intro-component-with-signup-form/)
 
 ## My process
 
